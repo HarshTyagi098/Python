@@ -63,7 +63,3 @@
 #             print("Invalid input. Please enter numeric only")
 # number = inputNumericOnly("Enter a number: ")
 # print(f"Hello, {number}!")
-
-
-
-#Numpay :-
